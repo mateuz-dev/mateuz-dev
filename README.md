@@ -3,7 +3,7 @@
 #### I'm Mateus Bispo Ramos
 
 
-##### Currently Learning at Senai Jandira:
+##### Currently Learning:
 - 📱 Android
 - 💻 Javascript
 - 💻 PHP
